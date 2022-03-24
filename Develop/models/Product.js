@@ -16,7 +16,7 @@ Product.init(
       primaryKey: true,
       autoIncrement: true
     },
-    product_name: {
+    productName: {
       type: DataTypes.STRING,
       allowNull: false
     },
@@ -32,17 +32,15 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       isNumeric: true,
+      defaultValue: 10,
       validate: {
         isNumeric: true,
       },
-      // need to set a default value of `10`.
     },
-    category_id: {
+    categoryId: {
       type: DataTypes.INTEGER,
       // need to references the Category model's id
     }
-
-
   },
   {
     sequelize,
