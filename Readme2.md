@@ -1,5 +1,5 @@
-# Employee Management System
-In this project I built the back end for an e-commerce site by modifying starter code. The motivation for me to create this application is because of the prevalence of e-commerce sites such as Shopify. The prevalence of these sites means that understanding the fundamental architecture of these platforms will benefit me as a full-stack web developer. I built this project to explore new concepts: the use of association methods, RESTful CRUD Operations and the use of sequelize.
+# E-Commerce Back End
+In this project I built the back end for an e-commerce site by modifying starter code. The motivation for me to create this application is because of the prevalence of e-commerce sites such as Shopify. The prevalence of these sites means that understanding the fundamental architecture of these platforms will benefit me as a full-stack web developer. I built this project to explore new concepts: the use of association methods, RESTful CRUD Operations and the use of sequelize. 
 
 ## Technologies Used
 * MySQL2 package
