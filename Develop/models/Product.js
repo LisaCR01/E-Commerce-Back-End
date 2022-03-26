@@ -16,12 +16,11 @@ Product.init(
       primaryKey: true,
       autoIncrement: true
     },
-    productName: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: false
     },
     price: {
-      type: DataTypes.STRING,
       type: DataTypes.DECIMAL(10, 2),
       allowNull: false,
       validate: {
@@ -31,7 +30,6 @@ Product.init(
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      isNumeric: true,
       defaultValue: 10,
       validate: {
         isNumeric: true,
@@ -41,7 +39,7 @@ Product.init(
       type: DataTypes.INTEGER,
       // need to references the Category model's id
       references: {
-        model: 'Category',
+        model: 'category',
         key: 'id',
         unique: false
       }
