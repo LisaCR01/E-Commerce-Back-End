@@ -24,3 +24,5 @@ In this project I built the back end for an e-commerce site by modifying starter
 [Link to Walkthrough Video](https://drive.google.com/file/d/1sOPIvdkPnI-hlKxkxLdyqA3xwV8WCAu5/view)
 
 ## Contact Information
+
+[Email Me](mailto:lcrgunn@gmail.com)
