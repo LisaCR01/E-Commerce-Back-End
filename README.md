@@ -21,6 +21,7 @@ In this project I built the back end for an e-commerce site by modifying starter
 
 ### Walkthrough Video
 
+[Link to Walkthrough Video](https://drive.google.com/file/d/177UT-Q2ShoQmUGD7PZsS5aKfUz1oJc6q/view)
 
 ### Command Line Invoking Application
 ![Command Line Invoking Application](./Assets/Command-Line.jpg?raw=true)
