@@ -29,4 +29,5 @@ In this project I built the back end for an e-commerce site by modifying starter
 ![Use of Insomnia for requests](./Assets/Insomnia.jpg?raw=true)
 
 ## Contact Information
-[Email Me](mailto:lcrgunn@gmail.com)
+[Email](mailto:lcrgunn@gmail.com)
+[Github](https://github.com/LisaCR01)
