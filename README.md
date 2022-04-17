@@ -27,6 +27,6 @@ In this project I built the back end for an e-commerce site by modifying starter
 ![Command Line Invoking Application](./Assets/Command-Line.jpg?raw=true)
 ### Use of Insomnia
 ![Use of Insomnia for requests](./Assets/Insomnia.jpg?raw=true)
-## Contact Information
 
+## Contact Information
 [Email Me](mailto:lcrgunn@gmail.com)
